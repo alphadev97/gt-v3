@@ -36,14 +36,15 @@ body {
 .wrapper i {
   height: 50px;
   width: 50px;
-  background: #fff;
+  background-color: #3cadff;
+  color: #fff;
   text-align: center;
   line-height: 50px;
   border-radius: 50%;
   cursor: pointer;
   position: absolute;
   top: 50%;
-  font-size: 1.25rem;
+  font-size: 2rem;
   transform: translateY(-50%);
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.23);
 }
